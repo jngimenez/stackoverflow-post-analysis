@@ -1,0 +1,2 @@
+-- Other than tags, what qualities on a post correlate with the highest rate of answer and
+-- approved answer? Feel free to get creative
