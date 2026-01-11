@@ -2,7 +2,6 @@
 -- of approved answers for the current year? What tags lead to the least? How about
 -- combinations of tags?
 
-
 /*
 Determine the most recent COMPLETE year (12 months of data)
 */

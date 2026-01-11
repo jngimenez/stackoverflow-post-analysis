@@ -4,7 +4,6 @@
 -- answers on questions for the same time period? How do posts tagged with only ‘python’
 -- compare to posts only tagged with ‘dbt’?
 
-
 /*
 
 Year-over-year comparison with aligned timelines:

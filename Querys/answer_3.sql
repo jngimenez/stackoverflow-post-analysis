@@ -2,7 +2,6 @@
 -- approved answer? Feel free to get creative
 
 
-
 WITH yearly_coverage AS (
   SELECT
     EXTRACT(YEAR FROM creation_date) AS year,

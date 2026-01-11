@@ -1,5 +1,6 @@
 # stackoverflow-post-analysis
 Newsela analytics engineer assesment
+Candidate Gimenez Jonathan 
 
 ############
 Prompt 1 – Tag Performance Analysis
