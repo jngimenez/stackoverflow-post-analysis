@@ -3,12 +3,6 @@
 
 
 
-/*
-Prompt 3
-Analyze non-tag post qualities correlated with higher answer
-and accepted answer rates.
-*/
-
 WITH yearly_coverage AS (
   SELECT
     EXTRACT(YEAR FROM creation_date) AS year,

@@ -6,7 +6,7 @@
 
 
 /*
-Prompt 2
+
 Year-over-year comparison with aligned timelines:
 - python_only
 - dbt_only
